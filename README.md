@@ -5,4 +5,3 @@ Vim install plugins
 $ vim
 :PlugInstall
 ```
-TEST
